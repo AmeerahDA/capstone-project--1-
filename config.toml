@@ -1,0 +1,6 @@
+url = 'https://de-materials-tpcds.s3.ca-central-1.amazonaws.com/inventory.csv'
+destination_folder = '/tmp'
+file_name = 'inventory.csv'
+file_format_type = 'comma_csv'
+stage_name = 'inv_stage'
+table_name = 'inventory'
